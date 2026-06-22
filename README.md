@@ -1,6 +1,7 @@
 # Data Science Internship Projects
 
 Name: Deepthi
+
 Domain: Data Science and Analytics
 
 This repository contains projects completed as part of a Data Science Internship.
